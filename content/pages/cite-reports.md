@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: CITE Reports
-type: SupplementalResourceSection
 uid: dd046e5e-87a4-6d97-2dca-40ee4e14220b
 ---
 
